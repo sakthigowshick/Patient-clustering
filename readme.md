@@ -39,7 +39,6 @@ This project demonstrates two popular **unsupervised clustering techniques**:
 
 We also use **PCA (Principal Component Analysis)** to reduce dimensions for visualization.
 
----
 
 ## ⚙️ Hierarchical Clustering
 
